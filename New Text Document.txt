@@ -1,0 +1,9 @@
+public class SevenTwo{
+	public static void main(String []args){
+	String Str = "This is a	Solution of hte assignment ";
+	String Check = "is";
+	if(Str.conatins(Check)){
+	System.out.println("true");
+	}
+	}
+}
